@@ -1,1 +1,1 @@
-EasyFX-2.8
+EasyFX-4.0+
